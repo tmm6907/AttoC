@@ -1,2 +1,2 @@
-# AttoC
-Compiler
+# AttoC Compiler
+This is a compiler on a subset of the C language. For this project I needed to learn about how characters are tokenized by a lexical analyzer into expressions that may be parsed by the computer to perform the desired results of a language. This project includes parsers for arithmetic expressions and other more complex expressions like conditionals, functions, and keywords. It also allowed me to experience bug fixing, handling system calls and interrupts.  This was the largest project I've created. This experience taught me about how to conceptualize and navigate large projects nested with file and class dependencies. This was also my first time coding in C and implementing code optimization techniques on a full project.
